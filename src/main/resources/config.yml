@@ -1,0 +1,43 @@
+# Database
+serverName: server
+host: localhost
+port: 3306
+database-name: database
+username: username
+password: password
+
+# Messages CN
+error: 发生了错误。请检查控制台
+noRecentDeath: 该玩家最近没有死亡记录
+missingName: 请指定玩家用户名
+server: 服务器
+location: 位置
+queryError: 检索数据时出错
+noPermission: 你没有权限
+playerOnly: 只有玩家才能使用此命令
+usage: 使用：
+wrongFormat: 数字格式错误
+invFromDeath: 遗产
+wasOpened: 被打开
+isEmpty: 是空的
+notFound: 未找到与 ID 相符的死亡信息
+reloaded: 配置已重载
+deathMsg: 遗言
+
+## Messages EN
+#error: An error has occurred. Please check the console for errors
+#noRecentDeath: The player has no recent death
+#missingName: Please specify a player's name
+#server: Server
+#location: Location
+#queryError: Error while retrieving data
+#noPermission: You don't have the permission to use this command
+#playerOnly: You must be a player to use this command
+#usage: "Usage:"
+#wrongFormat: Wrong number format
+#invFromDeath: Inventory from death
+#wasOpened: was opened
+#isEmpty: is empty
+#notFound: No death found with id
+#reloaded: The configuration file was successfully reloaded
+#deathMsg: Death message

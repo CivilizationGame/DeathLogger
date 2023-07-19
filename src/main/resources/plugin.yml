@@ -1,0 +1,11 @@
+name: DeathLogger
+version: '${project.version}'
+main: im.cig.deathlogger.DeathLogger
+api-version: '1.16'
+commands:
+  getdeath:
+    usage: "/getdeath"
+  lastdeaths:
+    usage: "/lastdeaths"
+  dlreload:
+    usage: "/dlreload"
